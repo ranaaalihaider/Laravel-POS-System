@@ -4,3 +4,4 @@ POS system with Accounting corrections, WAC, Sale Return fixes, Inventory sync.
 
 ## Development Log
 
+- [2025-07-15] Fixed state management bug.
