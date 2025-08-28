@@ -44,3 +44,4 @@ POS system with Accounting corrections, WAC, Sale Return fixes, Inventory sync.
 - [2025-08-02] Removed unused variables.
 - [2025-08-11] Minor tweak to configuration.
 - [2025-08-22] Code cleanup and formatting.
+- [2025-08-28] Adjusted logic flow.
