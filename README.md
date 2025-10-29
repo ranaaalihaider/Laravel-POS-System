@@ -12,3 +12,4 @@ POS system with Accounting corrections, WAC, Sale Return fixes, Inventory sync.
 - [2025-09-22] Refactored controllers.
 - [2025-10-03] Refactored controllers.
 - [2025-10-06] Added unit tests for core functions.
+- [2025-10-29] Added documentation for recent changes.
